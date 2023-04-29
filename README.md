@@ -8,10 +8,9 @@ To submit, remove or update one of your cartridges, please open an issue with th
 
 ## Cartridges
 
-| Name                                                     | Author | Description                                                              |
-| -------------------------------------------------------- | ------ | ------------------------------------------------------------------------ |
-| [Particle Test](./fishi/particletest.png)                | Fishi  | An example usage of the Rainbow32 Particle System                        |
-| [Rainbow Invaders (de)](./fishi/rainbow_invaders_de.png) | Fishi  | Ein Remake von Spaceinvaders mit Sound und mehreren Schwierigkeitsstufen |
-| [Rainbow Invaders (en)](./fishi/rainbow_invaders_en.png) | Fishi  | A remake of spaceinvaders with sound and multiple difficulty levels      |
-| [Collision Test](./fishi/collision_test.png)             | Fishi  | An example using the default BoxCollider component                       |
-| [Loading Screen](./fishi/loading_screen.png)             | Fishi  | A remake of the Rainbow32 loading and error screen. Press u to toggle.   |
+| Name                                                  | Author | Description                                                            |
+| ----------------------------------------------------- | ------ | ---------------------------------------------------------------------- |
+| [Particle Test](./fishi/particle_system_test.png.png) | Fishi  | An example usage of the Rainbow32 Particle System                      |
+| [Rainbow Invaders (en)](./fishi/rainbow_invaders.png) | Fishi  | A remake of spaceinvaders with sound and multiple difficulty levels    |
+| [Collision Test](./fishi/collision_test.png)          | Fishi  | An example using the default BoxCollider component                     |
+| [Loading Screen](./fishi/loading_screen.png)          | Fishi  | A remake of the Rainbow32 loading and error screen. Press u to toggle. |
